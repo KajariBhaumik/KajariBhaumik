@@ -27,8 +27,14 @@ I specialize in leveraging AI/ML to solve real-world problems in domains like fr
 ---
 
 ## 📫 Let's Connect
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/...)
-- [Email](mailto:kbhaumik@charlotte.edu)
+
+# Kajari Bhaumik
+_Data Scientist | AI Enthusiast | Python, SQL, Tableau_
+
+📧 **Email**: [kajari@example.com](mailto:kajari@example.com)  
+🌐 **GitHub**: [KajariBhaumik](https://github.com/KajariBhaumik)  
+🔗 **LinkedIn**: [kajari-linkedin](https://www.linkedin.com/in/kajaribhaumik/)  
+
 
 <!--
 

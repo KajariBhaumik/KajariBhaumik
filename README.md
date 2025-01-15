@@ -24,9 +24,10 @@ Results-driven Data Scientist with a Master's in Data Science and Business Analy
 ---
 
 ## 🛠 Skills
-- **Programming Languages:** Python, SQL  
-- **Libraries/Tools:** Pandas, Scikit-learn, PyTorch, Tableau  
-- **Areas of Expertise:** Fraud Detection, Computer Vision, Business Intelligence  
+- **Programming Languages:** SQL, Python, R, SAS  
+- **Libraries/Tools:** Numpy, Pandas, Scikit-learn, TensorFlow, Keras, PyTorch,
+- **Visualization Tools:*** Power BI, Tableau  
+- **Areas of Expertise:** Business Intelligence, ETL Pipelines, A/B Testing, Hypothesis Testing, Computer Vision, NLP
 
 ---
 

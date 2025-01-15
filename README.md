@@ -29,7 +29,7 @@ I specialize in leveraging AI/ML to solve real-world problems in domains like fr
 ## 📫 Let's Connect
 
 # Kajari Bhaumik
-_Data Scientist | AI Enthusiast | Python, SQL, Tableau_
+_Data Scientist | AI Enthusiast | Python, SQL, Power BI
 
 📧 **Email**: [kajari@example.com](mailto:kajari@example.com)  
 🌐 **GitHub**: [KajariBhaumik](https://github.com/KajariBhaumik)  

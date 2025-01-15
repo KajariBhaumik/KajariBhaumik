@@ -13,36 +13,12 @@ Results-driven Data Scientist with a Master's in Data Science and Business Analy
 ## 🌟 Projects
 ## 🌟 Featured Projects
 
-### 1. **Basketball Shooting and Back-Spin Analysis**
-- **Description**: Developed an AI-based solution to analyze basketball shooting mechanics and calculate the back-spin axis. Leveraged object detection with YOLOv8, blob tracking, and motion analysis to provide actionable insights for player performance improvement.
-- **Technologies**: Python, OpenCV, PyTorch, YOLOv8
-- **Highlights**:
-  - Detected and tracked basketballs with YOLOv8.
-  - Calculated spin axis using custom algorithms on tracked frames.
-  - Delivered detailed visualizations for coaching insights.
-- [GitHub Repository](https://github.com/KajariBhaumik/BasketballShootingAnalysis)
 
----
-
-### 2. **Truist Modeling Competition**
-- **Description**: Participated in a data science competition hosted by Truist to develop predictive models for business insights. Implemented robust data processing and machine learning techniques for competition-ready solutions.
-- **Technologies**: Python, Scikit-learn, XGBoost
-- **Highlights**:
-  - Engineered features for improved predictive power.
-  - Applied hyperparameter optimization to maximize model performance.
-  - Delivered a detailed notebook showcasing the end-to-end workflow.
-- [GitHub Repository](https://github.com/KajariBhaumik/Truist_modeling_competition)
-
----
-
-### 3. **H&M Product Recommendation**
-- **Description**: Built a recommendation engine for H&M using transaction data from Kaggle. Implemented collaborative filtering and customer segmentation to enhance personalization and user experience.
-- **Technologies**: Python, SQL, Pandas, PostgreSQL
-- **Highlights**:
-  - Processed and analyzed 31M+ transactions.
-  - Applied RFM and K-Means clustering for customer segmentation.
-  - Integrated collaborative filtering techniques for personalized product recommendations.
-- [GitHub Repository](https://github.com/KajariBhaumik/HnM_Product_Recommendation?tab=readme-ov-file)
+| Project Name                             | Description                                 | Technologies                      | Link                                                                                  |
+|------------------------------------------|---------------------------------------------|-----------------------------------|---------------------------------------------------------------------------------------|
+| Basketball Shooting and Back-Spin Analysis | AI-based analysis of basketball mechanics   | Python, PyTorch, OpenCV, YOLOv8  | [GitHub](https://github.com/KajariBhaumik/BasketballShootingAnalysis)                |
+| Truist Modeling Competition              | Predictive modeling competition solutions   | Python, Scikit-learn, XGBoost    | [GitHub](https://github.com/KajariBhaumik/Truist_modeling_competition)               |
+| H&M Product Recommendation               | Personalized product recommendations        | Python, SQL, Pandas, PostgreSQL  | [GitHub](https://github.com/KajariBhaumik/HnM_Product_Recommendation?tab=readme-ov-file) |
 
 
 ---

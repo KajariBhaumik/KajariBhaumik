@@ -1,26 +1,34 @@
-# Welcome to My GitHub Portfolio 👋
+# Hi there, I'm Kajari Bhaumik! 👋
 
-I am Kajari Bhaumik, a Data Scientist passionate about leveraging machine learning and AI to solve real-world problems. With expertise in Python, SQL, Tableau, and PyTorch, I enjoy creating innovative solutions in domains like fraud detection, supply chain optimization, and computer vision.
+🎓 **Data Scientist | AI Enthusiast**  
+📍 **Based in the USA**
 
-## 🚀 Featured Projects
-- **[Fraud Detection with Isolation Forest](https://github.com/...)**: Anomaly detection using unsupervised learning techniques for highly imbalanced datasets.
-- **[Basketball Spin Axis Analysis](https://github.com/...)**: Object detection and motion analysis using YOLO v8 and OpenCV.
-- **[H&M Product Recommendation](https://github.com/...)**: Personalized recommendations using RFM analysis and collaborative filtering on Kaggle's retail dataset.
+---
 
-## 📊 Skills
-- **Programming:** Python, SQL, PySpark
-- **Tools:** Tableau, Power BI, Google Colab Pro
-- **Libraries:** Scikit-learn, Pandas, TensorFlow, PyTorch
-- **Domain Expertise:** Fraud Detection, Data Engineering, Business Intelligence
+## 🚀 About Me
+I specialize in leveraging AI/ML to solve real-world problems in domains like fraud detection, supply chain optimization, and computer vision. I am passionate about building end-to-end solutions that drive meaningful impact.
 
-## 🌱 I’m currently learning
-- Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG)
-- Advanced Graph Neural Networks
+---
 
-## 📫 How to Reach Me
-- [LinkedIn](https://www.linkedin.com/in/...)
-- Email: kbhaumik@charlotte.edu
+## 🌟 Projects
+| Project Name                           | Description                                              | Technologies Used         |
+|----------------------------------------|----------------------------------------------------------|---------------------------|
+| [Fraud Detection](#)                   | Built an anomaly detection model for imbalanced datasets | Python, Scikit-learn      |
+| [Basketball Spin Analysis](#)          | Analyzed spin axis using YOLO v8 and OpenCV              | Python, OpenCV, PyTorch   |
+| [H&M Recommendations](#)               | Personalized product recommendations for retail          | Python, SQL, Tableau      |
 
+---
+
+## 🛠 Skills
+- **Programming Languages:** Python, SQL  
+- **Libraries/Tools:** Pandas, Scikit-learn, PyTorch, Tableau  
+- **Areas of Expertise:** Fraud Detection, Computer Vision, Business Intelligence  
+
+---
+
+## 📫 Let's Connect
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/...)
+- [Email](mailto:kbhaumik@charlotte.edu)
 
 <!--
 

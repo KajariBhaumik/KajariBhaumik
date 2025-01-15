@@ -1,4 +1,4 @@
-# Hi there 👋, I'm KAJARI BHAUMIK! 
+# Hi there 👋,  Happy you found your way here! 
 
 🎓 **Data Scientist | AI Enthusiast**  
 📍 **Based in the USA**
@@ -14,11 +14,11 @@ Results-driven Data Scientist with a Master's in Data Science and Business Analy
 ## 🌟 Featured Projects
 
 
-| Project Name                             | Description                                 | Technologies                      | Link                                                                                  |
-|------------------------------------------|---------------------------------------------|-----------------------------------|---------------------------------------------------------------------------------------|
-| Basketball Shooting and Back-Spin Analysis | AI-based analysis of basketball mechanics   | Python, PyTorch, OpenCV, YOLOv8  | [GitHub](https://github.com/KajariBhaumik/BasketballShootingAnalysis)                |
-| Truist Modeling Competition              | Predictive modeling competition solutions   | Python, Scikit-learn, XGBoost    | [GitHub](https://github.com/KajariBhaumik/Truist_modeling_competition)               |
-| H&M Product Recommendation               | Personalized product recommendations        | Python, SQL, Pandas, PostgreSQL  | [GitHub](https://github.com/KajariBhaumik/HnM_Product_Recommendation?tab=readme-ov-file) |
+| Project Name                             | Description                                 | Technologies                      | Link                                                                                     |
+|------------------------------------------|---------------------------------------------|-----------------------------------|------------------------------------------------------------------------------------------|
+| Basketball Shooting & Back-Spin Analysis | AI-based analysis of basketball mechanics   | Python, PyTorch, OpenCV, YOLOv8   | [GitHub](https://github.com/KajariBhaumik/BasketballShootingAnalysis)                    |
+| Truist Modeling Competition              | Predictive modeling competition solutions   | Python, Scikit-learn, XGBoost     | [GitHub](https://github.com/KajariBhaumik/Truist_modeling_competition)                   |
+| H&M Product Recommendation               | Personalized product recommendations        | Python, PySpark, PostgreSQL   | [GitHub](https://github.com/KajariBhaumik/HnM_Product_Recommendation?tab=readme-ov-file) |
 
 
 ---
